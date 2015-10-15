@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+
+#google email gem
+gem "gmail"
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
